@@ -3,7 +3,7 @@ Plinxl is an excel add-in, providing prolog-like capabilities inside excel.
 
 At a glance:
 
-![My Image](Screenshot 2023-09-04 AtaGlance 5.png)
+![My Image](Screenshot_2023-09-04_AtaGlance_5.png)
 
 -  Download and install Plinxl. 
    In your excel workbook, you now have a 'Plinxl' menu and ribbon.
