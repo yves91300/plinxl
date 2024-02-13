@@ -10,5 +10,5 @@ At a glance:
 - 2 In a worksheet, type your prolog program.
 - 3 In the Plinxl ribbon click on the '?- consult.' button.
 - 4 Double click on a '?- query'.
-   Plinxl displays the answer in the console.
-- 5 Click the 'Next' button to backtrack to the next solution, if any.
+- 5 Plinxl displays the answer in the console.
+-   Click the 'Next' button to backtrack to the next solution, if any.
