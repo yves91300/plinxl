@@ -1,5 +1,5 @@
 # plinxl
-Plinxl is an excel add-in, providing prolog-like capabilities inside excel.
+Plinxl is an Excel add-in, providing PROLOG-like capabilities inside excel.
 
 At a glance:
 
